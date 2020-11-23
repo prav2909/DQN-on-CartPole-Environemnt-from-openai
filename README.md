@@ -1,6 +1,6 @@
 # DQN-on-CartPole-Environemnt-from-openai
 DQN with replay buffer on Cartpole environment 
-To Run the code, just download all python files in a folder, open terminal inside the the folder and type pzthon train.py
+To Run the code, just download all python files in a folder, open terminal inside the the folder and type: python train.py
 
 You will need tensorflow 2 and above and python 3.6
 
